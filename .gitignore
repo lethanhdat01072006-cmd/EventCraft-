@@ -1,0 +1,21 @@
+# Backend / Java / Maven
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+*.class
+.idea/
+*.iml
+.vscode/
+
+# Frontend / Node / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.local
+
+# Database / Uploads / Logs / OS
+backend/uploads/
+backend/test-dashboard.html
+*.log
+.DS_Store
+Thumbs.db
+Documents/
